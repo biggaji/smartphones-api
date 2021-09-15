@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mocha": "^9.1.1",
+    "pg": "^8.7.1"
+  },
+  "name": "smartphones-api",
+  "description": "An api with a collections of common smartphones today, with the maker details. Built for my course on https://educative.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/chai": "^4.2.21",
+    "@types/chai-http": "^4.2.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.9.1",
+    "@types/pg": "^8.6.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggaji/smartphones-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggaji/smartphones-api/issues"
+  },
+  "homepage": "https://github.com/biggaji/smartphones-api#readme"
+}
